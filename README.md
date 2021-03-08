@@ -15,7 +15,7 @@ Nombre:
 * Coloca tu nombre en este archivo README.md y realiza un push al repositorio remoto
 
 ------
-## Prueba 1 ##
+## Prueba ##
 * Lee la documentación del API de [JSONPlaceholder](http://jsonplaceholder.typicode.com/guide/) y crea una aplicación móvil nativa en **iOS** o **Android** (dentro del directorio **Prueba**) que consuma los end-poins necesarios para realizar lo siguiente:
 	* Listar a los 10 usuarios **_(15 puntos)_**
 	* Al seleccionar un usuario muestra algunos campos con su información(name, username, email, etc.) y coloca 2 botones para poder seleccionar los "posts" y "todos" que estén relacionados con el usuario. **_(15 puntos)_**
