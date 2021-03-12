@@ -7,6 +7,16 @@ Deadline: **1 día**
 
 Nombre: Luis Fabián Zavala Vázquez
 
+-----
+### Información de la aplicación ###
+
+*MVVM+ROOM+DAGGER*
+
+* La aplicación fue desarrollada bajo la arquitectura MVVM
+* Se realiza persistencia local con ROOM para cuando el dispositivo no tenga conexión a internet
+* Se utiliza inyección de dependencias a través de dagger.
+ 
+
 ------
 ## Clona y crea tu repositorio para la evaluación ##
 * Clona este repositorio en tu máquina local
